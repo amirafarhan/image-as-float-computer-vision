@@ -4,6 +4,8 @@ A computer-vision project on how images are represented as floating-point arrays
 classic spatial filters remove it. Built with **scikit-image**, **SciPy** and **OpenCV**, plus an interactive
 **Streamlit** lab for trying the filters on any image.
 
+**🔗 Live demo:** https://image-as-float-computer-vision-ap3rjcnp8mvjwd8sbdw4pf.streamlit.app/
+
 ## 🚀 Features
 
 - **Notebook (`image as float computer vision.ipynb`):**
@@ -60,7 +62,9 @@ pip install -r requirements.txt
 
 ## ▶️ Run
 
-Streamlit lab (opens http://localhost:8501):
+Live demo: https://image-as-float-computer-vision-ap3rjcnp8mvjwd8sbdw4pf.streamlit.app/
+
+Run the Streamlit lab locally (opens http://localhost:8501):
 
 ```bash
 streamlit run app.py
